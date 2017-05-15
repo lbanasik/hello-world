@@ -1,3 +1,4 @@
 # hello-world
 Krótki opis
-Teraz zmienimy sobie trochę readme
+Teraz zmienimy sobie trochę readmadsadsa
+Edytuje ten plik
